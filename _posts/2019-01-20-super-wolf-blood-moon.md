@@ -15,7 +15,7 @@ As I edit this markdown file in my text editor of choice (Atom), the moon is alm
 
 I took a bunch of photos using the basic auto camera setting, cuz it was too dang cold for poking around with little bitty dials in the dark. This one is the bloodiest, so I chose it. I hope you like it. It was maybe worth the effort, a little. What was more worth it was seeing all the stars out bright around the super wolf blood moon, and taking a few frigid seconds to appreciate what an amazing universe we are part of.
 
-![super blood wolf moon](https://github.com/trevorspecht/treeblog/blob/master/assets/sbwm.jpg)
+![super-blood-wolf-moon](https://github.com/trevorspecht/treeblog/blob/master/assets/sbwm.jpg)
 
 ---
 Thanks for reading my very first ever in my life blog post! May it not be my last. Because I have at least one other thing to write about. Bye til then!
