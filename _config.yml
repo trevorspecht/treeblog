@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+baseurl: "/treeblog"
+
+name: Trevor Specht
+description: stuff I want to write about
