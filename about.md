@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Trevor
 
-I'll put something here later. It's late and I'm tired.
+I'm a musician, a software engineer, a husband, father and nature lover. I'm currently in batch at the [Recurse Center](https://www.recurse.com) (Sept-Dec 2021), working to become a better programmer.
 
 ## Find me
 
