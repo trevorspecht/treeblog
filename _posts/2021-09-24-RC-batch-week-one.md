@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My first week a the Recurse Center"
+title:  "My first week at the Recurse Center"
 ---
 
 ## Recurse Center Week One
