@@ -16,8 +16,8 @@
 title: random rants and ruminations
 description: >- # this means to ignore newlines until "baseurl:"
   just a place for me to write stuff about music, nature, tech, life and love
-baseurl: "/treeblog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "/treeblog" # the subpath of your site, e.g. /blog
+url: "https://blog.trevorspecht.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: trevorspecht
 github_username:  trevorspecht
 
